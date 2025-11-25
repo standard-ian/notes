@@ -2,7 +2,7 @@
   "version": "0.6.8",
   "renderer": true,
   "cache": {
-    "enabled": false,
+    "enabled": true,
     "location": "Memory"
   }
 }
