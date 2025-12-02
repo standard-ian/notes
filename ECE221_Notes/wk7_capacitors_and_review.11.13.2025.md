@@ -724,7 +724,7 @@ Or we could cascade inverting amps
     }
     
 \begin{document}
-\begin{circuitikz}[american, scale=2, font=\Large]
+\begin{circuitikz}[american, scale=1.3]
 	% invoke the opamp	
 	\opamp(0,0){U1}
 	

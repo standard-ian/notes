@@ -1,4 +1,4 @@
-## Class 1
+## Class 16
 #### Capacitor Review
 Voltages and batteries produce a voltage in their own distinct ways. 
 There are other ways of getting a voltage...
@@ -141,6 +141,3 @@ An inducter also has a time constant: $\tau = \frac{L}{R}$ The point where it ha
 If you increase the frequency, the capacitor will charge to a voltage that is smaller and smaller.
 Slower frequency, the capacitor has time to charge up and down with the source.
 This essentially filters out the high frequency.
-## Class 2
-
-
